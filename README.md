@@ -25,3 +25,7 @@ java版本在add文件夹下。
 详细信息请查看PDF文件。
 
 测试数据 --> test.txt
+
+* 程序结构
+![structure](https://github.com/sameen7/OO_polynomial/blob/master/structure.png)
+
